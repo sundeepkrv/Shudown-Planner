@@ -1,0 +1,11 @@
+streamlit
+sqlalchemy
+numpy
+pandas
+datetime
+werkzeug
+streamlit-calendar
+plotly
+python-dateutil
+openpyxl
+reportlab

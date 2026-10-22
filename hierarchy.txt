@@ -1,0 +1,64 @@
+shutdown_system/
+│
+├── app.py
+├── config.py
+├── requirements.txt
+├── README.md
+│
+├── assets/
+│   ├── logo.png
+│   ├── login_banner.png
+│   └── styles.css
+│
+├── database/
+│   ├── db.py
+│   ├── models.py
+│   └── seed_data.py
+│
+├── auth/
+│   ├── login.py
+│   ├── logout.py
+│   ├── password.py
+│   ├── permissions.py
+│   └── session_manager.py
+│
+├── services/
+│   ├── workflow_service.py
+│   ├── shutdown_service.py
+│   ├── approval_service.py
+│   ├── audit_service.py
+│   ├── timeline_service.py
+│   ├── user_service.py
+│   ├── calendar_service.py
+│   └── notification_service.py
+│
+├── pages/
+│   ├── dashboard.py
+│   ├── new_request.py
+│   ├── my_requests.py
+│   ├── approvals.py
+│   ├── request_details.py
+│   ├── calendar_view.py
+│   ├── audit_logs.py
+│   ├── user_management.py
+│   ├── change_password.py
+│   └── profile.py
+│
+├── components/
+│   ├── sidebar.py
+│   ├── header.py
+│   ├── metrics.py
+│   ├── timeline.py
+│   └── request_card.py
+│
+├── reports/
+│   ├── shutdown_report.py
+│   ├── approval_report.py
+│   └── audit_report.py
+│
+├── data/
+│   └── uploads/
+│
+└── exports/
+	├── pdf/
+	└── excel/
