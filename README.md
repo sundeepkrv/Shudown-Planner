@@ -80,7 +80,7 @@ shutdown_report_<user_role>_<timestamp>.xlsx
 | Charts | Plotly |
 # Project Structure
 ```text
-shutdown_planner/
+shutdown-planner/
 ├── app.py
 ├── config.py
 ├── requirements.txt
