@@ -3,18 +3,9 @@ A role-based Shutdown Planning & Approval Management System built using **Stream
 The application enables utility organizations, substations, transmission operators, and maintenance teams to digitally manage shutdown requests, approvals, audit trails, calendars, and reporting workflows.
 # Features
 ## Authentication & Security
-✅ Secure login
-✅ Password hashing
-✅ Change password
-✅ Admin password reset
-✅ User session management
-✅ Role-based access control (RBAC)
+✅ Secure Login ✅ Change Password ✅ Admin Password Reset ✅ User Management ✅ Role Based Access Control (RBAC)
 ## Shutdown Request Management
-✅ Create shutdown requests
-✅ View request status
-✅ Track workflow progression
-✅ View shutdown details
-✅ Request history
+✅ Create Shutdown Requests ✅ View Request/Status ✅ Track Workflow ✅ View Shutdown Details ✅ Request History
 ## Approval Workflow
 Multi-level approval workflow:
 ```text
